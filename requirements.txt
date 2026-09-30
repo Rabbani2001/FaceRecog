@@ -1,0 +1,4 @@
+deepface==0.0.101
+fastapi==0.142.1
+opencv-python==5.0.0.93
+uvicorn==0.54.0
